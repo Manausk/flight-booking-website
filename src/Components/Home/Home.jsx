@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 
 // import video from "../../assets/video.mp4";
-import video from "../../assets/video7.mp4";
-import aeroplane from "../../assets/TakeOff.png";
+import video from "../../Assets/video7.mp4";
+import aeroplane from "../../Assets/TakeOff.png";
 
 import Aos from "aos";
 import "aos/dist/aos.css";
